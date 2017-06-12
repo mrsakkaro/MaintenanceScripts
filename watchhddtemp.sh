@@ -7,8 +7,8 @@ MESSAGE="Hard Drive Temperature Report at `date`: "
 MESSAGE=$MESSAGE'\n\n'
 
 SERVER="aspmx.l.google.com"
-FROM="agni@dream-farmer.com"
-TO="mrsakkaro@dream-farmer.com"
+FROM="FROM EMAIL"
+TO="TO EMAIL"
 CHARSET="utf-8"
 SUBJ="Hard Drive Temperature Report at `date`"
 
